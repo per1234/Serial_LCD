@@ -28,7 +28,7 @@ tText	KEYWORD2
 gText	KEYWORD2
 getTouchActivity	KEYWORD2
 getTouchXY	KEYWORD2
-detectTouchRegion	KEYWORDS2
+detectTouchRegion	KEYWORD2
 addColour	KEYWORD2
 splitColour	KEYWORD2
 halfColour	KEYWORD2
